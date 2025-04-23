@@ -98,7 +98,7 @@ Follow the prompts to set up the username, email, and password. Use these creden
 ## Project Structure
 
 - **`LittleLemon/`**: Root directory containing the Django project settings.
-- **`api/`**: Contains the API application with models, views, serializers, and URLs.
+- **`LittleLemonAPI/`**: Contains the API application with models, views, serializers, and URLs.
 - **`Pipfile`**: Lists project dependencies for Pipenv.
 - **`manage.py`**: Django's command-line utility for administrative tasks.
 
